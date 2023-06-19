@@ -131,5 +131,11 @@ git status: ver o status de um aquivo
 git reset --soft HEAD~1 : para desfazer um commmit 
 
 git reset hard HEAD~1 : desfazer as alterações 
+
+para clona repositorio para maquina local usammos os seguintes comandos no git
+
+git clone https://github.com/brunoisnard/aula1-git-github.git
+
+
  
 
